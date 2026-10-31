@@ -1,0 +1,1 @@
+After running Assignment_1/evaluate.py with a valid GROQ_API_KEY, copy Assignment_1/reports/evaluation_agent.csv into this folder. Do not create or edit measurement values manually. Then rerun Assignment_2/evaluate.py to generate the measured Assignment 1 vs Assignment 2 comparison.

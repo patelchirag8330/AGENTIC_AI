@@ -1,0 +1,1 @@
+Run `python evaluate.py` to generate evaluation.md, evaluation_controls.csv, evaluation_retrieval.csv and sample_audit_records.json. Agent measurements require GROQ_API_KEY in .env. Copy the real Assignment 1 evaluation_agent.csv into baseline_a1/ before running the comparison.

@@ -1,0 +1,10 @@
+.env
+student_support.db
+*.db
+.venv/
+__pycache__/
+*.py[cod]
+logs/*.jsonl
+reports/*.csv
+reports/*.json
+reports/evaluation.md
